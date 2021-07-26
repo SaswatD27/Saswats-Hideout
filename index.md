@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-My first attempt at making a Github blog lol.
+Guess I am a blogger now, ma.
