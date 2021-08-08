@@ -10,4 +10,4 @@ This might not be your regular dose of Edgar Allan Poe (in which case, you have 
 
 Dive in and enjoy!
 
-<object data="https://saswatd27.github.io/_pdfs/SmartContracts2.pdf" width="1000" height="1000" type="application/pdf"></object>
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://saswatd27.github.io/_pdfs/SmartContracts2.pdf" width="500" height="375">
