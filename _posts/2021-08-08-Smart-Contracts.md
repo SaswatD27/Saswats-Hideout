@@ -10,4 +10,4 @@ This might not be your regular dose of Edgar Allan Poe (in which case, you have 
 
 Dive in and enjoy!
 
-<embed src="https://pdfhost.io/v/sxwYnSi8w_SmartContracts2.pdf" type="application/pdf" />
+<iframe src="https://pdfhost.io/v/sxwYnSi8w_SmartContracts2.pdf" width="100%" height="500px">
