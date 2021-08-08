@@ -10,4 +10,4 @@ This might not be your regular dose of Edgar Allan Poe (in which case, you have 
 
 Dive in and enjoy!
 
-<object data="saswatd27.github.io/Saswats-Hideout/ saswatd27.github.io/Saswats-Hideout/_pdfs/Algebra_I_Reference_Sheet.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="saswatd27.github.io/Saswats-Hideout/ saswatd27.github.io/Saswats-Hideout/_pdfs/SmartContracts2.pdf" width="1000" height="1000" type="application/pdf"></object>
