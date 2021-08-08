@@ -9,6 +9,5 @@ This was also practically the first proper document I had ever typeset, the firs
 This might not be your regular dose of Edgar Allan Poe (in which case, you have my admiration), but I never quite make any claims to that extent, do I now?
 
 Dive in and enjoy!
-```html
+
 <a href="SaswatD27.github.io/pdfs/SmartContracts2.pdf" target="_blank">PDF.</a>
-```
