@@ -10,4 +10,4 @@ This might not be your regular dose of Edgar Allan Poe (in which case, you have 
 
 Dive in and enjoy!
 
-<a href="SaswatD27.github.io/pdfs/SmartContracts2.pdf" target="_blank">PDF.</a>
+<a href="pdfs/SmartContracts2.pdf" target="_blank">PDF</a>
