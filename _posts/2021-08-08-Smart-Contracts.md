@@ -10,4 +10,4 @@ This might not be your regular dose of Edgar Allan Poe (in which case, you have 
 
 Dive in and enjoy!
 
-<object data="{{ https://saswatd27.github.io/Saswats-Hideout/2021/08/08/Smart-Contracts.html }}{{ https://saswatd27.github.io/Saswats-Hideout/ }}/_pdfs/SmartContracts2.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/SmartContracts2.pdf" width="1000" height="1000" type="application/pdf"></object>
