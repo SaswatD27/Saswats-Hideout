@@ -1,4 +1,5 @@
-theme: minima
+#theme: minima
+remote_theme: mmistakes/minimal-mistakes
 title: Saswat's Hideout
 author: Saswat "Aiden" Das
 email: thenicec1pher@gmail.com
